@@ -3,7 +3,7 @@
 
 This simple Flask web app will assign a user a temporary email address which they can use as they wish to sign up for accounts, get rewards etc. I built a Python API wrapper for the Temp Mail API and a simple and flexible web interface to see the emails.
 
-# Why should I use this over literally anything else?
+### Why should I use this over literally anything else?
 
 It's a no fuss, localized disposable email client. You can create emails on the go straight from your local Flask server. No bells and whistles, just get your email and go!
 
