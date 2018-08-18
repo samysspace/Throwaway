@@ -1,2 +1,2 @@
 # Throwaway
-📧A disposable email client built with Flask
+> 📧A disposable email client built with Flask
