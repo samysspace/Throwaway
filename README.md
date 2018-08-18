@@ -19,7 +19,11 @@ Beyond this, you will need to install urllib.request as follows:
 ```shell
 pip install urllib.request
 ```
-You are now good to go! Have fun!
+You are now good to go as soon as you run this command in your terminal or command prompt:
+```shell
+FLASK_APP=app.py flask run
+```
+Have fun!
 
 ### License
 
