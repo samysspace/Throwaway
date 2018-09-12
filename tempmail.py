@@ -11,7 +11,7 @@ class Throwaway(object):
     :param domain: (optional) domain (from current available)
     for email address.
     :param api_domain: (optional) domain for temp-mail api.
-    Default value is ``api.temp-mail.ru``.
+    Default value is ``privatix-temp-mail-v1.p.mashape.com``.
     """
 
     def __init__(self, login=None, domain=None, api_domain='https://privatix-temp-mail-v1.p.mashape.com'):
